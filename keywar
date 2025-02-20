@@ -1,6 +1,6 @@
 {
     "keys": {
-        "hfhj,fyduglhlkhiljgkfhjbjkkfydjkhftgvhjjftyfy": {"type": "permanent"},
+        "yeuanhdithianhchokey": {"type": "permanent"},
         "1t": {"type": "trial", "expiry": "2025-01-24T23:59:59", "used": false},
         "dobiet": {"type": "trial", "expiry": "2025-03-07T23:59:59", "used": false},
         "vylonto": {"type": "trial", "expiry": "2025-02-12T23:59:59", "used": false},
